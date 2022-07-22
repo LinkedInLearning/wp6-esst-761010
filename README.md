@@ -4,7 +4,7 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den 
 
 ![COURSENAME][lil-thumbnail-url] 
 
-[COURSEDESCRIPTION]
+Schon seit vielen Jahren gilt WordPress als das beliebteste Content-Management-System (CMS) der Welt. Dieser umfassende Einsteigerkurs zu WordPress 6 richtet sich gleichsam an Redakteur:innen und Entwickler:innen und setzt keinerlei Vorwissen voraus. Sie lernen, wie Sie Inhalte mit WordPress erstellen, wie Sie Bilder einfügen und Tabellen erstellen und wie Sie WordPress an Ihre Bedürfnisse anpassen: Sehen Sie, wie Sie ein Kontaktformular einbauen und die Seite für Suchmaschinen optimieren. Eigene Kapitel widmen sich den Grundkonzepten der WordPress-Programmierung und -Administration. Mit der Hilfe von zahlreichen Challenges/Solutions-Einheiten können Sie Ihr Wissen immer wieder testen und anschließend Ihre Lösung mit der ihres Trainers Thomas Rose vergleichen.
 
 ## Anleitung
 
