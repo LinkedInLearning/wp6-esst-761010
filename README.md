@@ -8,15 +8,14 @@ Schon seit vielen Jahren gilt WordPress als das beliebteste Content-Management-S
 
 ## Anleitung
 
-Dieses Repository besteht nur aus einem main-Branch. 
+Dieses Repository besteht nur aus einem main-Branch.
 
 
 ## Installation
 
-1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [list of requirements for course]
+1. Um diese Übungsdateien nutzen zu können, sollten Sie beim Verwenden des Docker-Ordners mit dem Umgang mit Docker vertraut sein. 
 2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
+
 
 ### Autor
 
