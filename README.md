@@ -1,6 +1,6 @@
-# [WordPress 6 Grundkurs]
+# WordPress 6 Grundkurs
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[WordPress 6 Grundkurs]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `WordPress 6 Grundkurs`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![COURSENAME][lil-thumbnail-url] 
 
