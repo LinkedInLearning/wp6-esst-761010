@@ -1,6 +1,6 @@
-# [DE-Kursname hier eintragen]
+# [WordPress 6 Grundkurs]
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `[WordPress 6 Grundkurs]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![COURSENAME][lil-thumbnail-url] 
 
@@ -26,5 +26,5 @@ _Medienpädagogoe_
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/thomas-rose) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/wordpress-6-grundkurs
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQGMv2gt7J7bEw/learning-public-crop_675_1200/0/1658385451359?e=1659607200&v=beta&t=_s0rqp0N_uNAThnEnmNt5mFvuveWFz8vMrmoY3cCD7g
