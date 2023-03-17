@@ -27,4 +27,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/wordpress-6-grundkurs
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQGMv2gt7J7bEw/learning-public-crop_675_1200/0/1658385451359?e=1659607200&v=beta&t=_s0rqp0N_uNAThnEnmNt5mFvuveWFz8vMrmoY3cCD7g
+[lil-thumbnail-url]: https://cdn.lynda.com/course/761010/761010-1658384856691-16x9.jpg
